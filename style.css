@@ -4,16 +4,22 @@
 
 .card{
     width: 90%;
-    
+    border: 1px black solid;
+    margin: 10px auto;
 }
 
 /* recipe pages */
 
 .recipe-title{
-    margin: 10px auto;
+    margin: 10px;
+    text-align: center;
 }
 
 .recipe-image{
+    display: block;
+    margin: auto;
+    width: 80%;
+    height: 500px;
 
 }
 
@@ -23,7 +29,7 @@
 }
 
 .recipe-ing{
-
+    margin-left: 20px;
 }
 
 .recipe-steps{
