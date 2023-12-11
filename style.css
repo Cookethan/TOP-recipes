@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+.card{
+    width: 90%;
+    
+}
+
+/* recipe pages */
+
+.recipe-title{
+    margin: 10px auto;
+}
+
+.recipe-image{
+
+}
+
+.recipe-desc{
+
+
+}
+
+.recipe-ing{
+
+}
+
+.recipe-steps{
+
+}
